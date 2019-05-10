@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Chloe
+title:            "Chloe"
 tagline:          'A writer person'
-description:      'I'm a writer based in Melbourne, Australia.'
+description:      'I am a writer based in Melbourne, Australia.'
 url:              https://thewonglab.github.io/chloewrites_
 baseurl:          /
 
