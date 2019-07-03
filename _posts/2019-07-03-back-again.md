@@ -25,7 +25,7 @@ I read it surprisingly quickly, over a couple of days. It’s a really easy and 
 4. and **Realistic**
 5. Come up with a **Timeline** for completion
  
-I’ve started putting my web development studies into that framework with the aim to complete two hours of video (stretch goal: three hours) and finish the entire 47 hours by November. Seems doable. I gave myself a lot of leeway around working, other writing projects, going away in October, and accounted for my general levels of motivation and discipline during the work-week. So we’ll see how we go there.
+I’ve started putting my web development studies into that framework with the aim to complete two hours of video a week (stretch goal: three hours) and finish the entire 47 hours by November. Seems doable. I gave myself a lot of leeway around working, other writing projects, going away in October, and accounted for my general levels of motivation and discipline during the work-week. So we’ll see how we go there.
 
 With that, I probably should apply the SMART goals to my document due on Monday… see you all next time!
 
