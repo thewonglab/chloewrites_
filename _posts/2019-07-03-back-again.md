@@ -16,12 +16,12 @@ The most surprising part about my time off was where I read a book! I finished a
 
 I read it surprisingly quickly, over a couple of days. It’s a really easy and accessible read. I don't know if productivity is really a "secret" over, say, having resources to delegate other things combined with motivation and determination, but Duhigg uses anecdotes to exemplify the eight principles he proposes implementing to work, think, and live Smarter Faster and Better. I don’t know that I’m any more productive for having read it (my due document is definitely not getting the benefit, but this blog is, so how do I measure?) but I did take at least one thing away. The stickiest concept from the book is the **SMART** way of planning goals and organising for success in achieving them.
 
-Being **Specific** in your goal 
-Making that goal **Measurable**,
-**Achievable**
-and **Realistic**
-Come up with a **Timeline** for completion
-
+1. Being **Specific** in your goal 
+2. Making that goal **Measurable**,
+3. **Achievable**
+4. and **Realistic**
+5. Come up with a **Timeline** for completion
+ 
 I’ve started putting my web development studies into that framework with the aim to complete two hours of video (stretch goal: three hours) and finish the entire 47 hours by November. Seems doable. I gave myself a lot of leeway around working, other writing projects, going away in October, and accounted for my general levels of motivation and discipline during the work-week. So we’ll see how we go there.
 
 With that, I probably should apply the SMART goals to my document due on Monday… see you all next time!
