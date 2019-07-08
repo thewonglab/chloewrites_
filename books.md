@@ -2,7 +2,7 @@
 layout: page
 title: Reading List
 ---
-**2019**<br></br>
+**2019**<br>
 *Southern Roots* by Lise Gold<br>
 *The Best Lines* by Nicole Pyland<br>
 *Alone* by EJ Noyes<br>
