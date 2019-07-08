@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books List
+title: Reading List
 ---
 **2019**
 *Southern Roots* by Lise Gold
@@ -9,3 +9,6 @@ title: Books List
 *Eastern Nights* by Lise Gold
 *Gold* by EJ Noyes
 *Smarter Faster Better: The Secrets of Being Productive in Life and Business* by Charles Duhigg
+
+**Currently Reading:**
+*Invisible Women: Exposing Data Bias in a World Designed for Men* by Caroline Criado-Perez
