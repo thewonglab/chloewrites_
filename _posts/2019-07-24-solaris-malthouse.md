@@ -15,4 +15,4 @@ It was just... fine. And I'm kinda cut up about that.
 
 Ah well. Is this not the nature of art? 
 
-- Chloe
+-Chloe
