@@ -25,6 +25,6 @@ The more I think on it, the more layers emerge from the film and I'm just amazed
 
 (Speaking of *Personal Shopper*, perhaps the previous best two-hander cast in French cinema was Kristen Stewart + iPhone?)
 
-But I digress. *Portrait of a Lady on Fire* is a masterclass in desire. And truly refreshing that it's a woman, a queer woman, who made this film. I can only point to the shower scene in *Blue is the Warmest Colour* for an example of an extremely discomfiting male gaze in French lesbian cinema. In *Portrait*, there was only a very strange armpit scene that can compare, but I get it — we all need a scene similar to the one in *Disobedience* where they spat in each other's mouths before we can really say: yes, that is how lesbians have sex.
+But I digress. *Portrait of a Lady on Fire* is a masterclass in desire. And truly refreshing that it's a woman, a queer woman, who made this film. I can only point to the shower scene in *Blue is the Warmest Colour* for an example of an extremely discomfiting male gaze in French lesbian cinema. In *Portrait*, there was only a very strange armpit scene that can compare, but I get it — we all need a scene similar to the one in *Disobedience* where they spat in each other's mouths before we can really say: sure, that is how lesbians have sex.
 
 4.5/5 stars
