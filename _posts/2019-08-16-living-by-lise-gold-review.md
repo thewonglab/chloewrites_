@@ -3,7 +3,9 @@ layout: post
 title: BOOK REVIEW: Living by Lise Gold 
 ---
 
-Behold, a new book by Lise Gold. Probably one of the more prolific lesfic writers out there.
+![living lise gold copy](https://user-images.githubusercontent.com/30233304/63130779-f7b5dc80-bffe-11e9-8d0e-30355aa12cb5.jpg)
+
+Behold, a new book by Lise Gold. Probably one of the more prolific lesfic writers out there. This one is another solid offering, a standalone outside of her recent *Compass* series.
 
 *Living* follows Ella, a Hollywood star struggling with depression and thoughts of suicide after the death of her twin sister two years prior to the start of the novel, and Cam, a yoga teacher who rescues Ella from herself on the beach one day. Six months later, the two are reunited and embark on a friendship which grows into mutual attraction and — dare I say it — love.
 
