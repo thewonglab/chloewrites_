@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BOOK REVIEW: Living by Lise Gold 
+title: Book Review - Living by Lise Gold 
 ---
 
 ![living lise gold copy](https://user-images.githubusercontent.com/30233304/63130779-f7b5dc80-bffe-11e9-8d0e-30355aa12cb5.jpg)
